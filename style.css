@@ -101,7 +101,7 @@ justify-content: space-between;
     width: 768px;
     height: 550px;
     padding: 64px 16px;
-    margin: 0 551.500px;
+    margin: 0 auto;
     text-align: center;
 }
 .content-two h4{
@@ -149,7 +149,7 @@ height: 153px;
 .content-three{
     width: 800px;
     padding: 64px 16px;
-    margin: 0 551.5px;
+    margin: 0 auto;
     height: 100%;
 }
 .content-three-header .titlt_three{
@@ -236,7 +236,7 @@ margin: 10px 0;
     width: 768px;
     padding: 64px 16px;
     height: 431px;
-    margin: 0 551.500px;
+    margin: 0 auto;
 }
 .content-contact h1{
     font-size: 30px;
